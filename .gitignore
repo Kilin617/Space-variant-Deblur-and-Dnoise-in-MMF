@@ -1,0 +1,12 @@
+# ignore type files
+*.iml
+*.xml
+*.pyc
+*.png
+*.txt
+*.pth
+*.html
+
+# ignore folders
+checkpoints/
+results/
